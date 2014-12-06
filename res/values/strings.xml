@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppList</string>
+    <string name="app_icon">app icon</string>
+    <string name="search_for_app">Search for app...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
